@@ -1,0 +1,7 @@
+mcp[cli]>=1.0.0
+pytrends>=4.9.2
+praw>=7.7.1
+python-dotenv>=1.0.0
+starlette>=0.37.0
+uvicorn>=0.30.0
+fastapi>=0.110.0
